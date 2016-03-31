@@ -22,7 +22,7 @@ PRE-ASSIGNMENT
 	[P-09] How does our "firm" embody the values upheld my The PMC? (Diversity, Accessiblity, Respect)
 
 STAGE 1
-	[S1-01] Preliminary Scope Table
+	[S1-01] Preliminary Scope Table		CARL
 	[S1-02] Out of Scope table
             REQUIREMENTS
 	[S1-03] Work breakdown structure & WBS Dictionary
