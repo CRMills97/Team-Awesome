@@ -1,5 +1,4 @@
 # Team-Awesome
 CSG2344 Project Methods and Professionalism, Assignment 2
-This is just a test.
 
-'this is also a test'
+'Hey guys, please remember to look at the Gantt chart and email each other if you have any questions =)'
