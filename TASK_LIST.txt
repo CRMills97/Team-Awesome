@@ -1,0 +1,71 @@
+PRE-ASSIGNMENT
+	[P-01] Assumptions     SCOPE RELATED // BUILD THEMSELVES
+	[P-02] Why is an online presence so valuable for a football team?      DIGITAL MARKETING -- REACH TARGET AUDIENCE
+	[P-03] Brainstorm sporting values      TEAMAWESOME
+	[P-04] Aboriginal culture/recognition  ABOUT US? RECOGNITION? BENEFITS
+		[P-04.1] How many Aboriginals are in Western Australia?
+	[P-05] Restoration of Aboriginal values (?)
+	[P-06] Aboriginal issues // how many aboriginies have these issues? TEAMAWESOME
+		[P-06.1] Communication
+		[P-06.2] Diabetes
+		[P-06.3] Drugs & Alcohol
+		[P-06.4] Aged Care
+		[P-06.5] Health Education
+		[P-06.6] Social & emotional wellbeing
+		[P-06.7] Stolen generation
+		[P-06.8] Theft?
+	[P-07] Accessibility issues - Requirements/WBS        TEAMAWESOME
+		[P-07.1] Visual impairment
+		[P-07.2] Hearing issues
+		[P-07.3] Mobility problems
+	[P-08] Legal standards             CLAYTON
+	[P-09] How does our "firm" embody the values upheld my The PMC? (Diversity, Accessiblity, Respect)
+
+STAGE 1
+	[S1-01] Preliminary Scope Table
+	[S1-02] Out of Scope table
+            REQUIREMENTS
+	[S1-03] Work breakdown structure & WBS Dictionary
+	[S1-07] GANTT Chart showing milestones and deliverables
+    [S1-04] SWOT analysis of ICT in the AFL     CARL
+    [S1-05] Stakeholders analysis table        JORDAN
+    [S1-06] Risk assessment analysis            CLAYTON
+	[S1-08] Stage 1 Progress Report
+
+STAGE 2 / FINAL REPORT
+	[S2-01] Communications strategy table
+	[S2-02] Quality strategy
+	[S2-03] Procurement strategy table
+	[S2-04] Breakdown of project costs         CARL
+	[S2-05] HR Requirements
+	[S2-06] Final Proposal including final GANTT and Time Management
+	[S2-07] Glossary of terms (Note down terms when we're completing the report)
+	[S2-08] Introduction
+	[S2-09] Assumptions (Note down these when we're completing the report)
+	[S2-10] Original scope table // the same as [S1-01] (?)
+	[S2-11] Final scope table // include the presumed scope creep (?)
+	[S2-12] What changed from [S2-09] to [S2-10] and why?
+	[S2-13] Out of scope table
+	[S2-14] Minimum scope table
+	[S2-15] Original risk management table     CLAYTON
+	[S2-16] Final risk management table        CLAYTON
+	[S2-17] What changed from [S2-15] to [S2-16] and why?
+	[S2-18] Procurement Management table
+	[S2-19] Stakeholder Management Strategy table
+	[S2-20] Stakeholder Communications Analysis table
+	[S2-21] Quality Plan table // QA tasks and quality metrics
+	[S2-22] Project Cost Baseline table
+	[S2-23] Time management // extracts from Microsoft Project     CLAYTON
+	[S2-24] Report summary
+	[S2-25] References
+	[S2-26] Appendices
+		[S2-26.1] Stage 1 progress report [S1-08]
+		[S2.26.1] Stage 2 progress report
+	[S2-27] Progress Summary report
+	[S2-28] Executive Summary
+	[S2-29] Title page
+	[S2-30] Table of Contents
+
+Discussion App // Salesforce
+    Health care professional (support worker)
+    Health care organisation - lifeline//alcoholism//domestic violence
